@@ -24,7 +24,7 @@ The key here to uncover the secret is to pay attention to the first hint given i
 
 To confirm that suspicion, we can check via [WaybackMachine](http://web.archive.org/) to see if the note or the user profile have had any notable changes.
 
-![Pasted Image 3](Pasted_image_20240804172331.png)
+![Pasted Image 4](Pasted_image_20240804172331.png)
 
 After inspecting we can see that there are 3 snapshots of the note stored by WaybackMachine and the older of them contains our flag.
 ## Flag - n00bz{l0ng_t1m3_ag0_m34ns_w4yb4ck}
