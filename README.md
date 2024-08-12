@@ -1,6 +1,6 @@
 ## n00bzCTF 2024
 
-My writeups for n00bzCTF-2024 on the OSINT category for the following challenges
+My writeups for n00bzCTF-2024 on the OSINT category for the following challenges:
 
 * Tail
 * The Gang
@@ -8,3 +8,4 @@ My writeups for n00bzCTF-2024 on the OSINT category for the following challenges
 * The Gang 2
 * PastebinX
 * The Gang 3
+* The Gang 4
